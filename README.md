@@ -1,4 +1,4 @@
-# Colección de Algoritmos Clásicos en Python 🚀
+# Colección de Algoritmos Clásicos en Python 
 
 Este repositorio contiene una colección de implementaciones en Python de algoritmos fundamentales de ciencias de la computación. El proyecto está dividido en dos áreas principales: algoritmos para la teoría de grafos y métodos avanzados de ordenamiento.
 
@@ -17,11 +17,11 @@ Una exploración detallada de algoritmos de ordenamiento, divididos por su enfoq
 * **Ordenamientos Internos:** Algoritmos diseñados para ejecutarse completamente en la memoria principal (RAM).
 * **Ordenamientos Externos:** Técnicas (como *Straight merging*, *Natural merging*, y *Polyphase sort*) utilizadas para manejar conjuntos de datos masivos que no caben en la memoria principal y requieren almacenamiento secundario.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 * **Lenguaje:** Python 3.x
 * **Enfoque:** Estructuras de Datos, Análisis de Algoritmos, Teoría de Grafos.
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 Para probar cualquiera de los algoritmos, asegúrate de tener Python instalado en tu sistema. Clona el repositorio y ejecuta el script deseado desde la terminal:
 
 ```bash
